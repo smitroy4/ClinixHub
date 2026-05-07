@@ -1,3 +1,5 @@
+-- PostgresSQL
+
 INSERT INTO patients (name, gender, birth_date, email, blood_group)
 VALUES
     ('Aarav Sharma', 'MALE', '1990-05-10', 'aarav.sharma@example.com', 'O_POSITIVE'),
